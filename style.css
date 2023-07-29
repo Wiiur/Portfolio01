@@ -52,7 +52,7 @@ header#top nav#navbar a:hover {
 
 section#inicio {
     min-height:  36rem;
-    background: rgb(121, 118, 118) url("_img/Teclado-fundo.jpg");
+    background: rgb(121, 118, 118) url("img/Teclado-fundo.jpg");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
@@ -77,7 +77,7 @@ section#sobre {
     margin: 100px 40px ;
 }
 section#sobre div#lateral{
-    background-image: url("_img/img-Sobre.png");
+    background-image: url("img/img-Sobre.png");
     background-size: 500px;
     background-repeat: no-repeat;
     background-position: right;
@@ -212,7 +212,7 @@ div#proCenter {
     padding-bottom: 10px;
 }
 div#imgPro {
-    background: black url('_img/5tech.png');
+    background: black url('img/5tech.png');
     height: 200px;
     background-position: center;
     background-size: 800px;
@@ -281,7 +281,7 @@ footer#rodape p span {
     /* Inicio */
     section#inicio {
         min-height:  56rem;
-        background: rgb(121, 118, 118) url("_img/Teclado-fundo.jpg");
+        background: rgb(121, 118, 118) url("img/Teclado-fundo.jpg");
         background-repeat: no-repeat;
         background-size: 1920px;
         background-position: center;
@@ -297,7 +297,7 @@ footer#rodape p span {
     /* Sobre */
     
     section#sobre div#lateral{
-        background-image: url("_img/img-Sobre.png");
+        background-image: url("img/img-Sobre.png");
         background-size: 750px;
         background-repeat: no-repeat;
         background-position: right;
@@ -424,7 +424,7 @@ footer#rodape p span {
     }
     div#imgPro {
         margin-top: 110px;
-        background: black url('_img/5tech.png');
+        background: black url('img/5tech.png');
         height: 530px;
         background-position: center;
         background-size: 950px;
@@ -471,7 +471,7 @@ footer#rodape p span {
 @media screen and (max-width: 1024px) {
     /* Sobre */
     section#sobre div#lateral{
-        background-image: url("_img/img-Sobre.png");
+        background-image: url("img/img-Sobre.png");
         background-size: 400px;
         background-repeat: no-repeat;
         background-position: right;
@@ -548,7 +548,7 @@ footer#rodape p span {
            float: left;
        }
        section#sobre div#lateral{
-        background-image: url("_img/img-Sobre.png");
+        background-image: url("img/img-Sobre.png");
         background-size: 260px;
         background-repeat: no-repeat;
         background-position: right;
@@ -627,7 +627,7 @@ footer#rodape p span {
         padding-bottom: 10px;
     }
     div#imgPro {
-        background: black url('_img/5tech.png');
+        background: black url('img/5tech.png');
         height: 200px;
         background-position: center;
         background-size: 360px;
@@ -679,7 +679,7 @@ footer#rodape p span {
            float: left;
        }
        section#sobre div#lateral{
-        background-image: url("_img/img-Sobre.png");
+        background-image: url("img/img-Sobre.png");
         background-size: 260px;
         background-repeat: no-repeat;
         background-position: right;
@@ -765,7 +765,7 @@ footer#rodape p span {
         padding-bottom: 10px;
     }
     div#imgPro {
-        background: black url('_img/5tech.png');
+        background: black url('img/5tech.png');
         height: 200px;
         background-position: center;
         background-size: 600px;

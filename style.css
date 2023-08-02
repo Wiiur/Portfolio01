@@ -641,7 +641,7 @@ footer#rodape p span {
         font-size: 20px;
         width: 373px;
         display: block;
-        margin: 0 48px;
+        margin: auto;
         text-align: justify;
     }
      section#sobre div#lateral{
@@ -655,7 +655,7 @@ footer#rodape p span {
     /* Formação */
     section#formacao{
         min-height: 58rem;
-        margin: 40px 50px;
+        margin: 20px 50px;
     }
     .conteiner{
         display: grid;
@@ -666,22 +666,21 @@ footer#rodape p span {
     }
     .borda {
         background-color: rgba(44, 43, 43, 0.03);
+        margin: auto;
         width: 350px;
         height: 130px;
         display: block;
         border-left: 1px solid black;
-        float: right;
         margin-top: 8px;
         margin-bottom: 0px;
     }
     .borda02 {
         background-color: rgba(44, 43, 43, 0.03);
         width: 350px;
+        margin: auto;
         height: 130px;
         display: block;
         border-left: 1px solid black;
-        float: right;
-        margin-right: 40px;
         margin-top: 8px;
     }
     /* Projeto */

@@ -638,8 +638,8 @@ footer#rodape p span {
         margin-bottom: 20px;
        }
      section#sobre p {
-        font-size: 20px;
-        width: 373px;
+        font-size: 19px;
+        width: 300px;
         display: block;
         margin: auto;
         text-align: justify;
@@ -650,7 +650,7 @@ footer#rodape p span {
         background-repeat: no-repeat;
         background-position: center;
         height: 320px;
-        margin-top: 280px;
+        margin-top: 300px;
     }
     /* Formação */
     section#formacao{
@@ -667,7 +667,7 @@ footer#rodape p span {
     .borda {
         background-color: rgba(44, 43, 43, 0.03);
         margin: auto;
-        width: 350px;
+        width: 300px;
         height: 130px;
         display: block;
         border-left: 1px solid black;
@@ -676,7 +676,7 @@ footer#rodape p span {
     }
     .borda02 {
         background-color: rgba(44, 43, 43, 0.03);
-        width: 350px;
+        width: 300px;
         margin: auto;
         height: 130px;
         display: block;
@@ -689,16 +689,16 @@ footer#rodape p span {
         min-height: 26rem;
     }
     div#proCenter {
-        width: 400px;
+        width: 300px;
         background-color: rgba(44, 43, 43, 0.03);
         margin: auto;
         padding-bottom: 10px;
     }
     div#imgPro {
         background: black url('img/5tech.png');
-        height: 200px;
+        height: 150px;
         background-position: center;
-        background-size: 500px;
+        background-size: 400px;
         background-repeat: no-repeat;
     }
 }
